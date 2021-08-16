@@ -1,0 +1,79 @@
+.footer{width: 1903px;height: 500px;text-align: center;}
+.foot{display: inline-block;}
+
+.nav_end{width: 1226px;height: 80px;border-bottom: 1px solid #ccc;float: left;}
+.nav_end li{width: 239px;height: 25px;float: left;text-align: center;line-height: 25px;font-size: 16px;color: #616161;border-right:1px solid #616161 ;margin-top: 27.5px;cursor: pointer;}
+.nav_end li:hover{color: #fe6a00;}
+.nav_end li:nth-child(5){border: 0px;}
+
+.left_end{width: 1226px;height: 182px;margin-top: 120px;}
+.left_end ul{width: 160px;float: left;margin-right: 0px;}
+.left_end ul li{float: left;font-size: 14px;color: #424242;height: 14px;width: 100%;margin-bottom: 20px;}
+.left_end ul .hov{font-size: 12px;color: #757575;margin-bottom: 10px;cursor: pointer;}
+.left_end ul .hov:hover{color: #fe6a00;}
+.right_end{width: 252px;height: 111px;border-left: 1px solid #ccc;float: left;margin-left: 12px;}
+.right_end img{width: 100%;height: 100%;}
+
+.base{width: 1226px;height: 230px;position: relative;float: left;
+
+    background:#fafafa;
+}
+
+.logo_end{width: 56px;height: 56px;margin: 25px 10px 0 0px;float: left;}
+.base_rig{width: 1159px;height: 157px;float: left;margin-top: 25px;}
+/* .base_rig ul{width: 1159px;height: 157px;float: left;} */
+.base_rig ul li{font-size: 12px;color: #757575;border-right: 1px solid #b0b0b0;padding:0 10px;width: auto;cursor: pointer;float: left;}
+.base_rig ul li:hover{color: #fe6a00;}
+.base_rig ul li:nth-child(14){border: 0px;}
+.base_rig ul li:nth-child(17){border: 0px;}
+.base_rig ul{margin-bottom: 44px;}
+.base_rig p{font-size: 12px;color: #b0b0b0;width: auto;text-align: left;padding-left: 10px;}
+.base_rig p:hover{color: #fe6a00;}
+.base_rig img{float: left;width: 83px;height: 28px;}
+.live{width: 1226px;font-weight: 300; color: #b0b0b0;margin-top: 234px;font-size: 20px;}
+
+.dl_right{
+    width: 252px;
+    height: 111px;
+    text-align: center;
+    float: left;
+    border-left: 1px solid #b0b0b0;
+}
+.dl_phone{
+    width: 251px;
+    height: 22px;
+    margin: 0 0 5px;
+    color: #ff6700;
+    font-size: 22px;
+}
+.time{
+    width: 251px;
+    height: 18px;
+    margin: 0 0 5px;
+    font-size: 12px;
+    color: #616161;
+}
+.people{
+    width: 120px;
+    height: 30px;
+    color: #ff6700;
+    border: 1px solid #ff6700;
+    display: inline-block;
+    line-height: 30px;
+}
+.people:hover{
+    background: #ff6700;
+    color: #fff;
+}
+.time span{
+    width: 60px;
+    float: left;
+    margin: 5px -60px 0 65px;
+    height: 24px;
+    line-height: 24px;
+}
+.time span img{
+    width: 24px;
+    height: 24px;
+    float: left;
+}

@@ -1,0 +1,5 @@
+*{margin: 0;padding: 0;}
+/* body{background: orange;} */
+li{list-style: none;float: left;}
+a{text-decoration: none;}
+input,button{outline: none;}
